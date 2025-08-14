@@ -29,7 +29,7 @@ Created an **interactive Tableau dashboard** enabling:
 - Order size analysis  
 - Profit margin visualization  
 
-[![UT Mart Dashboard]([https://github.com/utkarsh-yadav1231/Tableau-Projects/blob/master/UT%20Mart%20Sales%20Analytics/Screenshots/UT%20Mart%20Sales%20PNG.PNG)](https://public.tableau.com/profile/utkarsh.yadav6297#!/](https://github.com/Samraddhi-Gupta/UT-MART-SALES-ANALYTICS/blob/main/Ut%20mart%20sales/screenshots/UT%20Mart%20Sales%20PNG.PNG))  
+[![UT Mart Dashboard]([https://github.com/utkarsh-yadav1231/Tableau-Projects/blob/master/UT%20Mart%20Sales%20Analytics/Screenshots/UT%20Mart%20Sales%20PNG.PNG)](https://public.tableau.com/profile/utkarsh.yadav6297#!/](https://github.com/Samraddhi-Gupta/UT-MART-SALES-ANALYTICS/blob/main/Ut%20mart%20sales/screenshots/UT%20Mart%20Sales%20PNG.PNG)](https://github.com/Samraddhi-Gupta/UT-MART-SALES-ANALYTICS/blob/main/Ut%20mart%20sales/screenshots/UT%20Mart%20Sales%20PNG.PNG))  
 *Click image to view interactive dashboard*  
 
 ---
